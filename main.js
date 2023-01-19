@@ -4,7 +4,7 @@ import { setupCounter } from './counter.js';
 
 document.querySelector('#app').innerHTML = `
   <h3>
-    Hello, I'm Meggy.Nice to meet you, and wish you a good day!🐣
+    Hello, I'm Meggy. Nice to meet you, and wish you a good day!🐣
   </h3>
 `;
 
